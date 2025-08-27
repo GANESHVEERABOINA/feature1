@@ -1,0 +1,39 @@
+PIPELINE 
+AGENT ANY 
+
+{
+STAGES{
+STAGE{
+}
+STAGE1{
+ATEHE 
+';;;;;;;;
+:::
+.....
+::::
+}
+STAGE2 {;;;...
+;
+;
+;
+;
+;
+;}
+STAGE3 {
+;;;
+;
+;
+;
+;
+;
+;
+;}
+
+}
+}
+POSTCONDITION
+
+STEP 
+SUCCESS  --- MAIL 
+FAILURE VAMSHI
+ANY BOTH
